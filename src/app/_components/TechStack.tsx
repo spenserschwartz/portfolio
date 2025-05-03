@@ -5,6 +5,7 @@ import {
   ReactIcon,
   TailwindIcon,
   TypeScriptIcon,
+  VueIcon,
 } from "@/icons";
 import React from "react";
 
@@ -13,9 +14,9 @@ const iconComponents = [
   TypeScriptIcon,
   ReactIcon,
   NodeIcon,
-  TailwindIcon,
+  VueIcon,
   NextIcon,
-  GraphQLIcon,
+  TailwindIcon,
 ];
 
 const TechStack = () => {

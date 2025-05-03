@@ -9,6 +9,7 @@ import NodeIcon from "./Node";
 import ReactIcon from "./React";
 import TailwindIcon from "./Tailwind";
 import TypeScriptIcon from "./TypeScript";
+import VueIcon from "./Vue";
 
 export {
   ArrowDownIcon,
@@ -22,4 +23,6 @@ export {
   ReactIcon,
   TailwindIcon,
   TypeScriptIcon,
+  VueIcon
 };
+
